@@ -1,0 +1,7 @@
+category,input,bias + input,bias(Adj & Noun) + input,input + bias,input + bias(Adj & Noun)
+Political_Object,0.269,0.3066,0.2937,0.3154,0.3105
+Age,0.3196,0.3438,0.3438,0.3396,0.3396
+Gender,0.2925,0.3022,0.3022,0.3037,0.3037
+Political_Surrounding,0.3062,0.3455,0.3455,0.3608,0.3608
+Race,0.2644,0.2961,0.2676,0.295,0.2732
+Item,0.284,0.3032,0.2993,0.301,0.3132
